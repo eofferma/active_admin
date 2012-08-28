@@ -1,5 +1,8 @@
 es:
   active_admin:
+    create_model: "Nuevo(a) %{model}"
+    edit_model: "Editar %{model}"
+    update_model: "Editar %{model}"
     dashboard: Inicio
     dashboard_welcome:
       welcome: "Bienvenido a Active Admin. Esta es la página de inicio predeterminada."
